@@ -2,8 +2,9 @@ Welcome to GIT Session!!!
 This session is for GEMS.
 Today's Date - 25th Aug 2023 and today is Friday....
 Today the session is 10:00 - 5:00
-
+Today is a sunny day.
 function bug123(){
 //do something
 //do this to fix bug456
+//do this to fix CR2
 }
